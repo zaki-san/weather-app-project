@@ -38,6 +38,12 @@ li {
   margin-right: 10px;
 }
 
+.weather__icon--today {
+  float: left;
+  height: 64px;
+  width: 64px;
+}
+
 .temperature {
   color: rgb(33, 33, 33);
   font-size: 64px;
